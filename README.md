@@ -1,4 +1,4 @@
-# Dotfiles (Forked From Nicolas Gallagher)
+# Dotfiles (Adapted From Nicolas Gallagher's)
 
 My OS X dotfiles.
 
